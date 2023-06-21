@@ -3,8 +3,6 @@ C = int(input("Enter the columns: "))
  
 sudoku = []
 print("Enter the entries: ")
- 
-
 for i in range(R):         
     a =[]
     for j in range(C):     
